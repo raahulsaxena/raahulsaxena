@@ -1,9 +1,9 @@
 
-- 👋 Hi, I’m Rahul Saxena, a CS Grad Student at University of Massachusetts Amherst.
+- 👋 Hi, I’m **Rahul Saxena**, a CS Grad Student at University of Massachusetts Amherst.
 - 👀 I’m interested in computer vision, natural language processing and applications of ML in audio.
 - 🌱 Current Activities: I’m solving the leetcode problems, and doing projects related to my interests.
 - 💞️ Collaboration: I’m looking to collaborate on innovative ML projects that push the boundaries of what’s possible in AI.
-- 📫 LinkedIn: linkedin.com/in/raahulsaxena | Twitter (X): @raahul_saxena
+- 📫 **LinkedIn**: linkedin.com/in/raahulsaxena | **X**: @raahul_saxena
 - 😄 Pronouns: he/him
 
 <!---
