@@ -1,7 +1,8 @@
 
 - 👋 Hi, I’m **Rahul Saxena**, a CS Grad Student at University of Massachusetts Amherst.
 - 👀 I’m interested in computer vision, natural language processing and applications of ML in audio.
-- 🌱 I am actively solving LeetCode problems and working on projects related to my interests, constantly striving for a **deep understanding** of the subjects.
+- 🌱 I am actively solving LeetCode problems and working on projects related to my interests.
+- 🔍 Constantly striving for a deep understanding of subjects.
 - 💞️ I’m looking to collaborate on innovative ML projects that push the boundaries of what’s possible in AI.
 - 📫 **LinkedIn**: linkedin.com/in/raahulsaxena | **X**: @raahul_saxena
 - 😄 Pronouns: he/him
