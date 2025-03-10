@@ -1,69 +1,101 @@
+<h1 align="center">👋 Hey there, I'm Rahul Saxena!</h1>
 
-### Hey there
-I'm Rahul, a Machine Learning and AI Researcher with global work experience specializing in leading and executing impactful ML, AI, and data solutions. My expertise encompasses developing innovative data software and AI solutions for recommender systems, search engines, e-commerce, environmental, and retail companies. 
-<br>
-Worked in Tech, as Data Scientist in ML and AI in both product-based and consultancy settings with a strong business sense, and collaborating with Tech Leads, UX designers, Senior Management, Product Leaders, and Business Directors.
+<p align="center">
+  <strong>Machine Learning Engineer | AI Researcher | NLP Enthusiast</strong>  
+  <br>Graduate Student Researcher @ Spotify | MS CS @ UMass Amherst (GPA: 3.9/4.0)<br>
+</p>
 
+<p align="center">
+  <a href="https://raahulsaxena.github.io"><img src="https://img.shields.io/badge/Portfolio-%234285F4.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/raahulsaxena"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/raahulsaxena"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:rahulsaxena@umass.edu"><img src="https://img.shields.io/badge/Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-**Handbooks and Ebooks - Download for FREE**
-- **Data Science and AI Career Handbook** <a href = "https://downloads.tatevaslanyan.com/six-figure-data-science-ebook">Doanload here </a>
-- **Free Deep Learning Course (Part 1 | 50 Q&A's on YouTube 4h)**: <a href = "https://www.youtube.com/watch?v=Lf8XNN3-8nI">Watch on Youtube here </a>
-- **Complete Guide to AB Testing-with Python** <a href = "https://join.lunartech.ai/abtesting-optin"> Download here </a>
-- **Machine Learning Fundamentals Handbook** <a href = "https://join.lunartech.ai/machine-learning-fundamentals--3f64f">Doanload here </a>
-- **JAVA Fundamentals Book** <a href = "https://join.lunartech.ai/machine-learning-fundamentals--3f64f">Doanload here </a>
-- **Data Structures & Algorithms Book** <a href = "https://join.lunartech.ai/data-structures-fundamentals">Doanload here </a>
+---
 
+## 🚀 About Me
+- 🔬 **Graduate Student Researcher at Spotify**, working on **SQL query generation using LLMs**.
+- 📖 Pursuing **MS in Computer Science at UMass Amherst** (GPA: **3.9/4.0**).
+- 💡 **4+ years in ML & AI** (Philips, PayPal) specializing in **NLP, LLM fine-tuning, and deep learning**.
+- 🎯 Passionate about **Recommender Systems, Search, NLP, and AI-driven automation**.
 
-**🖥️ Resources and Courses to get into Machine Learning**
-- **Ultimate Data Science Bootcamp** <a href = "https://lunartech.ai/course-overview/">Curriculum here </a> <br> Recognized as one of the **Best Data Science Bootcamps for 2023** <a href = "https://www.itpro.com/business-strategy/careers-training/358100/best-data-science-boot-camps"> link here </a>, with FREE Trial
-- **Deep Learning Interview Prep Course (100 Q&A's 7.5h)** <a href = "https://courses.lunartech.ai/courses/deep-learning-interview-preparation-course-100-q-a-s">Enroll at LunarTech.ai </a>
-- **Machine Learning RoadMap 2024** <a href = "[https://courses.lunartech.ai/courses/deep-learning-interview-preparation-course-100-q-a-s](https://www.youtube.com/watch?v=esGtjVV9gLI)">Watch Full Video at LunarTech_ai YouTube </a>
-- **Fundamentals to Machine Learning Course:**  <a href = "https://courses.lunartech.ai/courses/machine-learning">Enroll at LunarTech.ai </a>
-- **Fundamentals to Statistics Course**:  <a href = "https://courses.lunartech.ai/courses/statistics">Enroll at LunarTech.ai </a>
-- **Python for Data Science Course:**  <a href = "https://courses.lunartech.ai/courses/python-for-data-scienc">Enroll at LunarTech.ai </a>
-- **Introduction to NLP Course:**  <a href="https://courses.lunartech.ai/courses/introduction-to-nlp">Enroll at LunarTech.ai </a>
-- **A/B Testing in Python Course:**  <a href="https://courses.lunartech.ai/courses/ab-testing">Enroll at LunarTech.ai </a>
+---
 
+## 🛠️ Skills & Expertise
 
-<br>
-Check out my<a href="https://github.com/TatevKaren/TatevKaren-data-science-portfolio"> Personal Portfolio</a> consisting of my Case Studies with Codes, Papers, Blogs, and Videos in the field of:
+### 💻 Programming Languages:
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
 
-- **Generative AI (LLMs)** <a href="https://github.com/TatevKaren/BabyGPT-Build_GPT_From_Scratch"> -> <a> 
-- **Data Science (ML)** <a href="https://github.com/TatevKaren/data-science-popular-algorithms"> -> <a> 
-- **Data Structures & Algorithms** <a href= "https://github.com/TatevKaren/DataStructuresAlgorithmsCourse"> -> <a>
-- **Deep Learning** <a href="https://github.com/TatevKaren/recurrent-neural-network-pricing-model"> -> <a> 
-- **Mathematics** <a href="https://github.com/TatevKaren/mathematics-statistics-for-data-science"> -> <a> 
-- **Statistics** <a href="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Deriving%20Expectation%20and%20Variances%20of%20Densities/README.MD"> -> <a>
-- **Econometrics** <a href="https://github.com/TatevKaren/econometric-algorithms"> -> <a>
+### 📚 ML & AI Frameworks:
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif?raw=true" width="500" height="320"/>
-<br>
+### ⚡ Technologies & Tools:
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-**Contacts**
+---
 
-<img align="left"  width="50px" src="https://cdn2.iconfinder.com/data/icons/social-media-icons-23/800/linkedin-512.png"/> <a href="https://www.linkedin.com/in/tatev-karen-aslanyan/">LinkedIn [FREE ML and AI Resources]</a> 
- <br>
- 
-<img align="left"  width="50px" src="https://lunartech.ai/wp-content/uploads/2023/06/cropped-Social_Profile_Mirko.jpg"> <a href="https://tatevaslanyan.com">Personal Website</a> <br>
+## 💼 Work Experience
 
-<img align="left" alt="Medium" width="100px" src="https://miro.medium.com/max/8976/1*Ra88BZ-CSTovFS2ZSURBgg.png"/> <a href="https://tatev-aslanyan.medium.com/">Medium Blogs</a>
-<br>
-<br>
+### 🎵 **Spotify (Graduate Student Researcher) | Feb 2025 - May 2025**
+- Researching **supervised fine-tuning (SFT)** and **alignment methods** to enhance **SQL query generation from natural language** using **BIRD Benchmark**.
 
-**Used Programming Languages**  
-<br>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png"></code>
+### 🏥 **Philips (Software Engineer II & I) | Jul 2019 - Jul 2023**
+- Deployed **NLP models** automating **customer complaint classification**, reducing **manual effort from 2 days to 10 minutes**.
+- Built a **translator microservice using Flask & Redis**, reducing **retrieval time to 2ms**.
+- Reduced **system downtime by 40%** by debugging **Erlang-based Data Manager module**.
 
-<br>
-<br>
+### 💳 **PayPal (Software Engineer Intern) | Jul 2018 - Dec 2018**
+- Developed **Optimus**, an **auto-remediation system using KafkaQueues**, reducing **data failures by 35%** and saving **$200K annually**.
+- Built a **full-stack monitoring app** for **Hadoop, RabbitMQ, and Spark**, improving **500K+ transactions/day**.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TatevKaren)
+---
 
-<!---
-rahsaxena/rahsaxena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🔬 Research & Projects
+
+### 🦾 **Advanced Camouflaged Object Detection**  
+📌 *[GitHub Repo](https://github.com/raahulsaxena/advanced-camouflage-detection)*  
+- Modified **SINet with ResNet-18**, maintaining **90.76% detection accuracy** while reducing computation cost.
+- Improved **segmentation mask accuracy** from **69.19% → 79.22%** on **COD10K dataset**.
+
+### 🎯 **Prompt Score (LLM Prompt Evaluation)**  
+📌 *[GitHub Repo](https://github.com/raahulsaxena/prompt_score)*  
+- Developed a **prompt scoring system** for **evaluating LLM prompt specificity**.
+- Fine-tuned **LLaMA with QLoRA**, improving **specificity scoring by 20%**.
+
+### 🎭 **Emotion-based Style Transfer**  
+📌 *[GitHub Repo](https://github.com/raahulsaxena/emotion-based-style-transfer)*  
+- Built a **21-layer CNN** achieving **77.5% accuracy** for **emotion classification** on the **Expression-in-the-Wild dataset**.
+- Optimized training with **perceptual loss + VGG16**, reducing training time to **5.5 hours per model**.
+
+---
+
+## 📚 Free AI & ML Resources  
+
+🔥 **ML & AI Career Handbook** → [Download](https://downloads.tatevaslanyan.com/six-figure-data-science-ebook)  
+📖 **Machine Learning Fundamentals Handbook** → [Download](https://join.lunartech.ai/machine-learning-fundamentals--3f64f)  
+🎥 **Deep Learning Interview Prep (100+ Q&A, 7.5h Video)** → [Enroll](https://courses.lunartech.ai/courses/deep-learning-interview-preparation-course-100-q-a-s)  
+🤖 **Introduction to NLP Course** → [Enroll](https://courses.lunartech.ai/courses/introduction-to-nlp)  
+
+---
+
+## 📢 Let's Connect!
+🌐 **Portfolio** → [raahulsaxena.github.io](https://raahulsaxena.github.io)  
+💼 **LinkedIn** → [linkedin.com/in/raahulsaxena](https://www.linkedin.com/in/raahulsaxena)  
+🐙 **GitHub** → [github.com/raahulsaxena](https://github.com/raahulsaxena)  
+📧 **Email** → [rahulsaxena@umass.edu](mailto:rahulsaxena@umass.edu)  
+
+---
+
+⭐ **Thanks for stopping by! Let's build cool AI stuff together. 🚀**
