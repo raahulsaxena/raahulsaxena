@@ -81,15 +81,6 @@
 
 ---
 
-## 📚 Free AI & ML Resources  
-
-🔥 **ML & AI Career Handbook** → [Download](https://downloads.tatevaslanyan.com/six-figure-data-science-ebook)  
-📖 **Machine Learning Fundamentals Handbook** → [Download](https://join.lunartech.ai/machine-learning-fundamentals--3f64f)  
-🎥 **Deep Learning Interview Prep (100+ Q&A, 7.5h Video)** → [Enroll](https://courses.lunartech.ai/courses/deep-learning-interview-preparation-course-100-q-a-s)  
-🤖 **Introduction to NLP Course** → [Enroll](https://courses.lunartech.ai/courses/introduction-to-nlp)  
-
----
-
 ## 📢 Let's Connect!
 🌐 **Portfolio** → [raahulsaxena.github.io](https://raahulsaxena.github.io)  
 💼 **LinkedIn** → [linkedin.com/in/raahulsaxena](https://www.linkedin.com/in/raahulsaxena)  
