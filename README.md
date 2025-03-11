@@ -46,40 +46,7 @@
 
 ---
 
-## 💼 Work Experience
 
-### 🎵 **Spotify (Graduate Student Researcher) | Feb 2025 - May 2025**
-- Researching **supervised fine-tuning (SFT)** and **alignment methods** to enhance **SQL query generation from natural language** using **BIRD Benchmark**.
-
-### 🏥 **Philips (Software Engineer II & I) | Jul 2019 - Jul 2023**
-- Deployed **NLP models** automating **customer complaint classification**, reducing **manual effort from 2 days to 10 minutes**.
-- Built a **translator microservice using Flask & Redis**, reducing **retrieval time to 2ms**.
-- Reduced **system downtime by 40%** by debugging **Erlang-based Data Manager module**.
-
-### 💳 **PayPal (Software Engineer Intern) | Jul 2018 - Dec 2018**
-- Developed **Optimus**, an **auto-remediation system using KafkaQueues**, reducing **data failures by 35%** and saving **$200K annually**.
-- Built a **full-stack monitoring app** for **Hadoop, RabbitMQ, and Spark**, improving **500K+ transactions/day**.
-
----
-
-## 🔬 Research & Projects
-
-### 🦾 **Advanced Camouflaged Object Detection**  
-📌 *[GitHub Repo](https://github.com/raahulsaxena/advanced-camouflage-detection)*  
-- Modified **SINet with ResNet-18**, maintaining **90.76% detection accuracy** while reducing computation cost.
-- Improved **segmentation mask accuracy** from **69.19% → 79.22%** on **COD10K dataset**.
-
-### 🎯 **Prompt Score (LLM Prompt Evaluation)**  
-📌 *[GitHub Repo](https://github.com/raahulsaxena/prompt_score)*  
-- Developed a **prompt scoring system** for **evaluating LLM prompt specificity**.
-- Fine-tuned **LLaMA with QLoRA**, improving **specificity scoring by 20%**.
-
-### 🎭 **Emotion-based Style Transfer**  
-📌 *[GitHub Repo](https://github.com/raahulsaxena/emotion-based-style-transfer)*  
-- Built a **21-layer CNN** achieving **77.5% accuracy** for **emotion classification** on the **Expression-in-the-Wild dataset**.
-- Optimized training with **perceptual loss + VGG16**, reducing training time to **5.5 hours per model**.
-
----
 
 ## 📢 Let's Connect!
 🌐 **Portfolio** → [raahulsaxena.github.io](https://raahulsaxena.github.io)  
