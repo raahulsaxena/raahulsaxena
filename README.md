@@ -16,9 +16,9 @@
 
 ## 🚀 About Me
 - 🔬 **Graduate Student Researcher at Spotify**, working on **SQL query generation using LLMs**.
-- 📖 Pursuing **MS in Computer Science at UMass Amherst** (GPA: **3.97/4.0**).
-- 💡 **4+ years in ML & AI** (Philips, PayPal) specializing in **NLP, LLM fine-tuning, and deep learning**.
-- 🎯 Passionate about **Recommender Systems, Search, NLP, and AI-driven automation**.
+- 📖 Pursuing **MS in Computer Science at UMass Amherst** (GPA: **3.97/4.0**), specializing in **NLP, LLM fine-tuning, and deep learning**..
+- 💡 **4+ years experience in Backend Software Engineering** (Philips, PayPal). 
+- 🎯 Passionate about building highly scalable **Backend Systems with NLP and AI-driven automation**.
 
 ---
 
