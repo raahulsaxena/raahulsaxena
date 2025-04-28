@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, I'm Rahul Saxena!</h1>
 
 <p align="center">
-  <strong>Machine Learning Engineer | AI Researcher | NLP Enthusiast</strong>  
+  <strong>Machine Learning Engineer | Backend Systems | NLP Enthusiast</strong>  
   <br>Graduate Student Researcher @ Spotify | MS CS @ UMass Amherst (GPA: 3.9/4.0)<br>
 </p>
 
